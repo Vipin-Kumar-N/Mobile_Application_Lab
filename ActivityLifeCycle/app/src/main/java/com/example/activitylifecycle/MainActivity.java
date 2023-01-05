@@ -49,13 +49,13 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         Log.d("Life Cycle:","onDestroy invoked");
     }
-
+/*
     @Override
     public boolean onCreateOptionsMenu(Menu menu)
     {
         getMenuInflater().inflate(R.menu.main,menu);
         return true;
     }
-
+*/
 
 }
